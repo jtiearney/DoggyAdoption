@@ -1,0 +1,16 @@
+store:
+  title: ActiveState Stackato Sample Applications
+  contact: Stackato Support <stackato-support@activestate.com>
+  icon: https://get.stackato.com/store/icon/activestate.png
+
+apps:
+- name: Doggy Adoption
+  id: doggy-adaoption
+  desc: blah blah blah
+  framework: node
+  runtime: node
+  commit: master
+  src: https://github.com/jtiearney/DoggyAdoption.git
+  info: https://github.com/jtiearney/DoggyAdoption.git#readme
+  icon: default
+  mem: 256
